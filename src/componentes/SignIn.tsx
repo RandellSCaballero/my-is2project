@@ -9,7 +9,8 @@ export default function SignIn() {
             <div className='LeftColumn'>
                 <div className='LeftColumnWrapper'>
                     <div className='spacerRC'></div>
-                    <Link to='/' className='logoPluralS'>
+
+                    <Link to='/my-is2project' className='logoPluralS'>
                         <img src={pslogo} alt='PluralSight Logo'/>
                     </Link>
                     <div className='signInForm'>
