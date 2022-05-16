@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/my-is2project/static/css/main.9392a4a3.css",
-    "main.js": "/my-is2project/static/js/main.4b56e4f7.js",
+    "main.js": "/my-is2project/static/js/main.ca98c908.js",
     "static/js/787.efd7c03e.chunk.js": "/my-is2project/static/js/787.efd7c03e.chunk.js",
     "static/media/Cloud-labs-image2x.png": "/my-is2project/static/media/Cloud-labs-image2x.090e7dabb80745fa20f6.png",
     "static/media/backgroundImg.png": "/my-is2project/static/media/backgroundImg.9f6fa05d6d742bf9b029.png",
@@ -22,11 +22,11 @@
     "static/media/login-logo.png": "/my-is2project/static/media/login-logo.da88f0f5d86b3b28ee2e.png",
     "index.html": "/my-is2project/index.html",
     "main.9392a4a3.css.map": "/my-is2project/static/css/main.9392a4a3.css.map",
-    "main.4b56e4f7.js.map": "/my-is2project/static/js/main.4b56e4f7.js.map",
+    "main.ca98c908.js.map": "/my-is2project/static/js/main.ca98c908.js.map",
     "787.efd7c03e.chunk.js.map": "/my-is2project/static/js/787.efd7c03e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9392a4a3.css",
-    "static/js/main.4b56e4f7.js"
+    "static/js/main.ca98c908.js"
   ]
 }
