@@ -12,7 +12,7 @@ import CptFooter from '../componentes/CptFooter';
 function Home() {
   return (
     <div className='App'>
-    {/* <CptHeader/> */}
+    <CptHeader/>
     <CptBody/>
     <br/>
     <div className='spcBtwn2'>

@@ -5,17 +5,16 @@ import Home from './componentes/Home';
 
 function App() {
   return (
-    // <Router>
-    // <div className='App'>
-    //   <Routes>
-    //     <Route path='/' element={<Home/>}/>
-    //     <Route path='/signin' element={<SignIn/>}/>
-    //   </Routes>
-    // </div>
-    // </Router>
-      <>
-        <Home></Home>
-      </>
+    <div className='App'> 
+    <Router>
+      <Routes>
+        <Route path='/' element={<Home/>}/>
+        <Route path='/signin' element={<SignIn/>}/>
+        {/* <Route path='*' element=""/> Cuando hay un path que no estan en los routes */}
+      </Routes>
+    </Router>
+      </div>
+    
   );
 }
 
