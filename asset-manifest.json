@@ -1,15 +1,28 @@
 {
   "files": {
-    "main.css": "/my-is2project/static/css/main.073c9b0a.css",
-    "main.js": "/my-is2project/static/js/main.88512e7e.js",
+    "main.css": "/my-is2project/static/css/main.7ded5c3f.css",
+    "main.js": "/my-is2project/static/js/main.54518c82.js",
     "static/js/787.efd7c03e.chunk.js": "/my-is2project/static/js/787.efd7c03e.chunk.js",
+    "static/media/Cloud-labs-image2x.png": "/my-is2project/static/media/Cloud-labs-image2x.090e7dabb80745fa20f6.png",
+    "static/media/backgroundImg.png": "/my-is2project/static/media/backgroundImg.9f6fa05d6d742bf9b029.png",
+    "static/media/resourcesBGImg.png": "/my-is2project/static/media/resourcesBGImg.53553f0ebb9145ca2c0c.png",
+    "static/media/computerPS.png": "/my-is2project/static/media/computerPS.434b2664293b9d992e27.png",
+    "static/media/graywavebg.png": "/my-is2project/static/media/graywavebg.76251408a9c77dd1aee4.png",
+    "static/media/backgroundImgBlock7.jpg": "/my-is2project/static/media/backgroundImgBlock7.47aa585ee5d1fed771ce.jpg",
+    "static/media/celebrationPS.png": "/my-is2project/static/media/celebrationPS.c15b544587b6a06eb41d.png",
+    "static/media/flow-demo-thumbnail.png": "/my-is2project/static/media/flow-demo-thumbnail.d5590a8e6a7d7f26e0a7.png",
+    "static/media/skillsimg.jpg": "/my-is2project/static/media/skillsimg.7770d05e37ff332f653f.jpg",
+    "static/media/one.png": "/my-is2project/static/media/one.8bc6f0c355828710da3e.png",
+    "static/media/50free.png": "/my-is2project/static/media/50free.8c5ea722ae94bdb648a3.png",
+    "static/media/angular.png": "/my-is2project/static/media/angular.a0a4959a2658d482e54c.png",
+    "static/media/csharp.png": "/my-is2project/static/media/csharp.fc430729bfa8902c06fd.png",
     "index.html": "/my-is2project/index.html",
-    "main.073c9b0a.css.map": "/my-is2project/static/css/main.073c9b0a.css.map",
-    "main.88512e7e.js.map": "/my-is2project/static/js/main.88512e7e.js.map",
+    "main.7ded5c3f.css.map": "/my-is2project/static/css/main.7ded5c3f.css.map",
+    "main.54518c82.js.map": "/my-is2project/static/js/main.54518c82.js.map",
     "787.efd7c03e.chunk.js.map": "/my-is2project/static/js/787.efd7c03e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.88512e7e.js"
+    "static/css/main.7ded5c3f.css",
+    "static/js/main.54518c82.js"
   ]
 }
