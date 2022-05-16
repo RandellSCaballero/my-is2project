@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/my-is2project/static/css/main.073c9b0a.css",
+    "main.js": "/my-is2project/static/js/main.88512e7e.js",
+    "static/js/787.efd7c03e.chunk.js": "/my-is2project/static/js/787.efd7c03e.chunk.js",
+    "index.html": "/my-is2project/index.html",
+    "main.073c9b0a.css.map": "/my-is2project/static/css/main.073c9b0a.css.map",
+    "main.88512e7e.js.map": "/my-is2project/static/js/main.88512e7e.js.map",
+    "787.efd7c03e.chunk.js.map": "/my-is2project/static/js/787.efd7c03e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.88512e7e.js"
+  ]
+}
