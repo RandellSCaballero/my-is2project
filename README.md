@@ -1,20 +1,19 @@
 <h1 align="center">
-  Plural Sight Replicate App 📒
+  Plural Sight Replicate App ⭐
 </h1>
 
 
 > About
 
-### 🏠 [Homepage](https://github.com/mjoeldiazm/contaduria-pwa)
+### 🏠 [Homepage](https://randellscaballero.github.io/my-is2project/)
 
 ## Authors
 
 👤 **Randell Caballero**
 
-* Website: https://contaduria-pwa.vercel.app/
+* Website: https://randellscaballero.github.io/my-is2project/
 * Github: [@RandellSCaballero](https://github.com/RandellSCaballero)
-* About Website: Website made to replicate the home page and sign in of the Plural Sight website, this project was done for college<br/>
-for the class of software engineer 2
+* About Website: Website made to replicate the home page and sign in of the Plural Sight website, this project was done for college for the class of software engineer 2
 
 
 ## Show your support
